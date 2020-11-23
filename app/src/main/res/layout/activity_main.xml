@@ -11,7 +11,7 @@
         android:id="@+id/lvLibros"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_weight=".9" />
+        android:layout_weight=".7" />
 
     <Button
         android:id="@+id/btInserta"
@@ -19,5 +19,10 @@
         android:layout_height="wrap_content"
         android:text="+" />
 
+    <Button
+        android:id="@+id/btVer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="VER" />
 
 </LinearLayout>
